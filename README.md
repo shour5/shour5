@@ -32,7 +32,7 @@ Whether it's a mobile app, an AI-driven dashboard, or a workflow automation syst
 **E**xperience: Years of practical, results-driven problem solving  
 **A**daptability: Flexible with changing requirements and fast-moving tech  
 **T**rust: I commit to long-term client relationships through honest communication  
-**E**xcellence: I don’t just code — I deliver.
+**E**xcellence: I don’t just code - I deliver.
 
 ---
 
