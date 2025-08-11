@@ -40,7 +40,7 @@ Whether it's a mobile app, an AI-driven dashboard, or a workflow automation syst
 
 Have an idea or challenge you're ready to tackle?
 
-📧 Email: mwajdan22@gmail.com | support@veoluxai.com 
-🌐 Website: www.veoluxai.com/
+- 📧 Email: mwajdan22@gmail.com | support@veoluxai.com 
+- 🌐 Website: www.veoluxai.com/
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
